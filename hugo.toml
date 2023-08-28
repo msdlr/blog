@@ -4,6 +4,12 @@ title = 'My blog'
 
 theme = "hugo-blog-awesome"
 
+[menu]
+[[menu.main]]
+    pageRef="about"
+    name = 'About'
+    url = '/about/'
+    weight = 30
 
 [[params.socialIcons]]
 name = "github"
