@@ -10,6 +10,11 @@ theme = "hugo-blog-awesome"
     name = 'About'
     url = '/about/'
     weight = 30
+[[menu.main]]
+    pageRef="posts"
+    name = 'Posts'
+    url = '/posts/'
+    weight = 20
 
 [[params.socialIcons]]
 name = "github"
