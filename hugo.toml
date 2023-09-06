@@ -22,4 +22,4 @@ url = "https://github.com/msdlr"
 
 [[params.socialIcons]]
 name = "Rss"
-url = "index.xml"
+url = "https://msdlr.github.io/blog/index.xml"
